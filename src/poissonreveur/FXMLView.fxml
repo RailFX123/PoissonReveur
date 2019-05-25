@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane id="AnchorPane" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="poissonreveur.ViewController">
+    <children>
+        <Button fx:id="button" layoutX="14.0" layoutY="14.0" onAction="#handleButtonAction" prefWidth="60.0" text="Abrir" AnchorPane.leftAnchor="14.0" AnchorPane.topAnchor="14.0" />
+        <Label fx:id="label" layoutX="126" layoutY="120" minHeight="16" minWidth="69" />
+      <Button layoutX="80.0" layoutY="14.0" mnemonicParsing="false" onAction="#analizar" text="Analizar" AnchorPane.topAnchor="14.0" />
+      <TextArea fx:id="txtCode" disable="false" layoutX="14.0" layoutY="45.0" prefHeight="200.0" prefWidth="280.0" AnchorPane.bottomAnchor="14.0" AnchorPane.leftAnchor="14.0" AnchorPane.topAnchor="44.0" />
+      <TextArea fx:id="txtResult" disable="false" layoutX="309.0" layoutY="44.0" prefHeight="200.0" prefWidth="280.0" AnchorPane.bottomAnchor="14.0" AnchorPane.rightAnchor="14.0" AnchorPane.topAnchor="44.0" />
+      <Button layoutX="143.0" layoutY="14.0" mnemonicParsing="false" onAction="#limpiar" text="Limpiar" />
+    </children>
+</AnchorPane>

@@ -1,0 +1,19 @@
+package koke;
+
+import java.io.FileReader;
+
+public class piochaland {
+  int j;
+  while (1 != 5) {
+   j = 2;
+  }
+
+ if (j == 0) { 
+  print "ds";
+ } 
+
+ public void hola() {
+  j = 0;
+ }
+
+}
