@@ -71,6 +71,9 @@ public class ViewController implements Initializable {
     private void limpiar(ActionEvent evt) {
         txtCode.setText("");
         txtResult.setText("");
+        for (int i = 0; i < 35; i++) {
+            System.out.println("");
+        }
     }
 
     private void alertar(String formato) {
