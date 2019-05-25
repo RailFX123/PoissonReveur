@@ -3,27 +3,10 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/georg/Documents/NetBeansProjects/PoissonReveur/src/parserC/Parser.java</file>
-            <file>file:/C:/Users/georg/Documents/NetBeansProjects/PoissonReveur/src/visitor/PrintVisitor.java</file>
-            <file>file:/C:/Users/georg/Documents/NetBeansProjects/PoissonReveur/src/lexerC/TestLexer.java</file>
-            <file>file:/C:/Users/georg/Documents/NetBeansProjects/PoissonReveur/src/lexerC/Lexer.java</file>
-            <file>file:/C:/Users/georg/Documents/NetBeansProjects/PoissonReveur/src/parser/Parser.java</file>
-            <file>file:/C:/Users/georg/Documents/NetBeansProjects/PoissonReveur/src/lexer/Lexer.java</file>
-            <file>file:/C:/Users/georg/Documents/NetBeansProjects/PoissonReveur/src/lexer/TestLexer.java</file>
-            <file>file:/C:/Users/georg/Documents/NetBeansProjects/PoissonReveur/src/lexer/Token.java</file>
-            <file>file:/C:/Users/georg/Documents/NetBeansProjects/PoissonReveur/src/MainExecution/ExecutionTest.java</file>
-            <file>file:/C:/Users/georg/Documents/NetBeansProjects/PoissonReveur/src/ast/Program.java</file>
-            <file>file:/C:/Users/georg/Documents/NetBeansProjects/PoissonReveur/src/parser/example.java</file>
-            <file>file:/C:/Users/georg/Documents/NetBeansProjects/PoissonReveur/src/lexer/TokenType.java</file>
-            <file>file:/C:/Users/georg/Documents/NetBeansProjects/PoissonReveur/src/lexerC/TokenType.java</file>
-            <file>file:/C:/Users/georg/Documents/NetBeansProjects/PoissonReveur/src/poissonreveur/PoissonReveur.java</file>
-            <file>file:/C:/Users/georg/Documents/NetBeansProjects/PoissonReveur/src/lexerC/Token.java</file>
-            <file>file:/C:/Users/georg/Documents/NetBeansProjects/PoissonReveur/src/lexerC/TokenAttribute.java</file>
-            <file>file:/C:/Users/georg/Documents/NetBeansProjects/PoissonReveur/src/parser/TestParser.java</file>
-            <file>file:/C:/Users/georg/Documents/NetBeansProjects/PoissonReveur/src/ControlFile/OpenFiles.java</file>
-            <file>file:/C:/Users/georg/Documents/NetBeansProjects/PoissonReveur/src/poissonreveur/ViewController.java</file>
-            <file>file:/C:/Users/georg/Documents/NetBeansProjects/PoissonReveur/src/lexer/TokenAttribute.java</file>
-            <file>file:/C:/Users/georg/Documents/NetBeansProjects/PoissonReveur/src/parserC/TestParser.java</file>
+            <file>file:/C:/Users/david/Downloads/PoissonReveur/PoissonReveur/src/ControlFile/OpenFiles.java</file>
+            <file>file:/C:/Users/david/Downloads/PoissonReveur/PoissonReveur/src/MainExecution/ExecutionTest.java</file>
+            <file>file:/C:/Users/david/Downloads/PoissonReveur/PoissonReveur/src/parserC/ParserC.java</file>
+            <file>file:/C:/Users/david/Downloads/PoissonReveur/PoissonReveur/src/lexerC/LexerC.java</file>
         </group>
     </open-files>
 </project-private>

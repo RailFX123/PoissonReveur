@@ -196,6 +196,7 @@ public class LexerC {
                 columnNumber++;
                 return new TokenC(TokenTypeC.STRING_CONTS, new lexerC.TokenAttribute(current), lineNumber, columnNumber - 1);
             }
+            Character.isUnicodeIdentifierPart(nextChar);
 
             return new TokenC(TokenTypeC.UNKNOWN, new lexerC.TokenAttribute(), lineNumber, columnNumber - 1);
         }
